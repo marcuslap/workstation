@@ -5,6 +5,8 @@ package 'ntp' do
   action :install
 end
 
+package 'emacs'
+
 package 'vim-enhanced'
 
 package 'nano'
